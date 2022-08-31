@@ -30,14 +30,19 @@
 !www.aliexpress.fi
 @@||wp.aliexpress.com^$important
 @@||alicdn.com^$important
-!Whatsapp
+! Whatsapp
 @@||web.whatsapp.com^$important
 @@||pps.whatsapp.net^$important
 @@||cdn.whatsapp.net^$important
+! Facebook
+@@||facebook.com^$important
+@@||fbcdn.net^$important
 ! Discord
 @@||cdn.discordapp.com^$important
 ! Microsoft stuff
 @@||api.msn.com^$important
+@@||windowsupdate.com^$important
+@@||*.update.microsoft.com^$important
 ! Viaplay
 @@||viaplay.fi^$important
 !
