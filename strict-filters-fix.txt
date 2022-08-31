@@ -9,11 +9,12 @@
 !!!!!!!!!!!!!
 !IP address lookup
 @@||icanhazip.com^$important
-!Google stuff that is needed
-@@||www.googletagmanager.com^$important
-@@||android.googleapis.com^$important
-@@||chromesyncpasswords-pa.googleapis.com^$important
-!www.iltalehti.fi
+! Google stuff that is needed
+@@||googletagmanager.com^$important
+@@||googleapis.com^$important
+@@||ggpht.com^$important
+@@||gstatic.com^$important
+! Iltalehti
 @@||img.ilcdn.fi^$important
 @@||assets.ilcdn.fi^$important
 @@||assets.dev.ilcdn.fi^$important
@@ -22,12 +23,12 @@
 @@||almacrcommoncontent.net^$important
 @@||videos-fms.jwpsrv.com^$important
 @@||assets-jpcust.jwpsrv.com^$important
-!www.mtv.fi
+! www.mtv.fi
 @@||mtv.fi^$important
 @@||fi-mtv3.videoplaza.tv^$important
-!www.apina.biz
+! www.apina.biz
 @@||apina.biz^$important
-!www.aliexpress.fi
+! Aliexpress
 @@||wp.aliexpress.com^$important
 @@||alicdn.com^$important
 ! Whatsapp
@@ -39,6 +40,8 @@
 @@||fbcdn.net^$important
 ! Discord
 @@||cdn.discordapp.com^$important
+! Reddit
+@@||gql.reddit.com^$important
 ! Microsoft stuff
 @@||api.msn.com^$important
 @@||windowsupdate.com^$important
