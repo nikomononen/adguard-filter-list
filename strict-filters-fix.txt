@@ -33,3 +33,12 @@
 @@||twitter.com^$important
 @@||abs.twimg.com^$important
 @@||pbs.twimg.com^$important
+! Google Services
+@@||chromesyncpasswords-pa.googleapis.com^$important
+! Viaplay
+@@||viaplay.fi^$important
+! Mainosestot
+||cdn.adnxs.com^
+||nostemedia.fi^
+||bbvms.com^
+||ssl.gstatic.com^$important
