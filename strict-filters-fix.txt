@@ -25,8 +25,3 @@
 ||cdn.nettix.fi^$third-party
 ||cmp-events.almamedia.tech^$important
 ||adnami.io^$third-party
-@@||img.ilcdn.fi^$important
-@@||static.ilcdn.fi^$important
-@@||assets.ilcdn.fi^$important
-@@||script.ilcdn.fi^$important
-@@||assets.dev.ilcdn.fi^$important
