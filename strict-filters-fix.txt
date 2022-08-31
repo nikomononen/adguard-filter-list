@@ -37,6 +37,12 @@
 ! Facebook
 @@||facebook.com^$important
 @@||fbcdn.net^$important
+! Tiktok
+@@||vm.tiktok.com^
+! Instagram
+@@||*.cdninstagram.com^$important
+@@||graphql.instagram.com^$important
+@@||i.instagram.com^$important
 ! Twitter
 @@||api.twitter.com^$important
 @@||video.twimg.com^$important
