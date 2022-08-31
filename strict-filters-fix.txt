@@ -37,6 +37,12 @@
 ! Facebook
 @@||facebook.com^$important
 @@||fbcdn.net^$important
+! Twitter
+@@||api.twitter.com^$important
+@@||video.twimg.com^$important
+@@||pbs.twimg.com^$important
+@@||abs.twimg.com^$important
+@@||t.co^$important
 ! Discord
 @@||cdn.discordapp.com^$important
 ! Github
