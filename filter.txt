@@ -3,4 +3,4 @@
 ! Version: 2022-08-31
 ! Mostly filtering Finnish ads that no other filter can
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
-|| nettix.fi/live/asset/nettix/banner/*
+||nettix.fi/live/asset/nettix/banner/*
