@@ -1,7 +1,6 @@
 [AdGuard filter list]
-! Title: AdGuard filter list to fix issues with some sites
+! Title: AdGuard filter list to fix issues with some sites when using strict PrivacyShield, HBlock, OISD and Agressive adguard 1-4
 ! Version: 2022-08-31-2
-! Mostly filtering and fixing Finnish ads that no other filter can
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
 !
 !!!!!!!!!!!!!
@@ -40,12 +39,15 @@
 @@||fbcdn.net^$important
 ! Discord
 @@||cdn.discordapp.com^$important
+! Github
+@@||github.com^$important
 ! Reddit
 @@||gql.reddit.com^$important
 ! Microsoft stuff
 @@||api.msn.com^$important
 @@||windowsupdate.com^$important
 @@||*.update.microsoft.com^$important
+@@||*.delivery.*.microsoft.com^$important
 ! Viaplay
 @@||viaplay.fi^$important
 !
