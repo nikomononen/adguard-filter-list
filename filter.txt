@@ -13,5 +13,15 @@
 @@||almacrcommoncontent.net^$important
 @@||www.googletagmanager.com^$important
 @@||apina.biz^$important
-||api.nettix.fi^$important
-||cdn.nettix.fi^$important
+@@||wp.aliexpress.com^$important
+@@||assets.alicdn.com^$important
+@@||g.alicdn.com^$important
+@@||ae01.alicdn.com^$important
+@@||ds-aksb-a.akamaihd.net^$important
+@@||web.whatsapp.com^$important
+@@||pps.whatsapp.net^$important
+@@||cdn.whatsapp.net^$important
+||api.nettix.fi^$third-party
+||cdn.nettix.fi^$third-party
+||cmp-events.almamedia.tech^$important
+||adnami.io^$third-party
