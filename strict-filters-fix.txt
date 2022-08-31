@@ -3,10 +3,16 @@
 ! Version: 2022-08-31-2
 ! Mostly filtering and fixing Finnish ads that no other filter can
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
+!
+!!!!!!!!!!!!!
+! Overrides !
+!!!!!!!!!!!!!
 !IP address lookup
 @@||icanhazip.com^$important
 !Google stuff that is needed
 @@||www.googletagmanager.com^$important
+@@||android.googleapis.com^$important
+@@||chromesyncpasswords-pa.googleapis.com^$important
 !www.iltalehti.fi
 @@||img.ilcdn.fi^$important
 @@||assets.ilcdn.fi^$important
@@ -28,11 +34,16 @@
 @@||web.whatsapp.com^$important
 @@||pps.whatsapp.net^$important
 @@||cdn.whatsapp.net^$important
-! Google Services
-@@||chromesyncpasswords-pa.googleapis.com^$important
+! Discord
+@@||cdn.discordapp.com^$important
+! Microsoft stuff
+@@||api.msn.com^$important
 ! Viaplay
 @@||viaplay.fi^$important
-! Mainosestot
+!
+!!!!!!!!!!!!!!!
+! Mainosestot !
+!!!!!!!!!!!!!!!
 ||cdn.adnxs.com^
 ||nostemedia.fi^
 ||bbvms.com^
