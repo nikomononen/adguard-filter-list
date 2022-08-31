@@ -3,4 +3,15 @@
 ! Version: 2022-08-31
 ! Mostly filtering Finnish ads that no other filter can
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
-||nettix.fi/live/asset/nettix/banner/*
+@@||iltalehti.fi^
+@@||is.fi^
+@@||mtv.fi^
+@@||mtv3.hb-api.omtrdc.net^$important
+@@||fi-mtv3.videoplaza.tv^$important
+@@||icanhazip.com^$important
+@@||events.il.fi^$important
+@@||almacrcommoncontent.net^$important
+@@||www.googletagmanager.com^$important
+@@||apina.biz^$important
+||api.nettix.fi^$important
+||cdn.nettix.fi^$important
