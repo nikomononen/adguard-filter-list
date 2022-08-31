@@ -49,6 +49,10 @@
 @@||github.com^$important
 ! Reddit
 @@||gql.reddit.com^$important
+! Imgur
+@@||imgur.com^
+! Spotify
+@@||spotify.com^
 ! Microsoft stuff
 @@||api.msn.com^$important
 @@||windowsupdate.com^$important
@@ -77,4 +81,3 @@
 ||cdn.adnxs.com^
 ||nostemedia.fi^
 ||bbvms.com^
-||*.googlevideo.com^$important
