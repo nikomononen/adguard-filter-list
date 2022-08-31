@@ -3,9 +3,9 @@
 ! Version: 2022-08-31-1
 ! Mostly filtering Finnish ads that no other filter can
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
-@@||iltalehti.fi^
-@@||is.fi^
-@@||mtv.fi^
+@@||iltalehti.fi^$important
+@@||is.fi^$important
+@@||mtv.fi^$important
 @@||mtv3.hb-api.omtrdc.net^$important
 @@||fi-mtv3.videoplaza.tv^$important
 @@||icanhazip.com^$important
@@ -30,4 +30,3 @@
 @@||assets.ilcdn.fi^$important
 @@||script.ilcdn.fi^$important
 @@||assets.dev.ilcdn.fi^$important
-@@||secure.adnxs.com^$important
