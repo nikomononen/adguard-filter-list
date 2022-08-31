@@ -29,3 +29,7 @@
 @@||web.whatsapp.com^$important
 @@||pps.whatsapp.net^$important
 @@||cdn.whatsapp.net^$important
+!www.twitter.com
+@@||twitter.com^$important
+@@||abs.twimg.com^$important
+@@||pbs.twimg.com^$important
