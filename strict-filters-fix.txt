@@ -1,27 +1,31 @@
 [AdGuard filter list]
-! Title: AdGuard filter list
-! Version: 2022-08-31-1
-! Mostly filtering Finnish ads that no other filter can
+! Title: AdGuard filter list to fix issues with some sites
+! Version: 2022-08-31-2
+! Mostly filtering and fixing Finnish ads that no other filter can
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
-@@||iltalehti.fi^$important
-@@||is.fi^$important
-@@||mtv.fi^$important
-@@||mtv3.hb-api.omtrdc.net^$important
-@@||fi-mtv3.videoplaza.tv^$important
+!IP address lookup
 @@||icanhazip.com^$important
-@@||events.il.fi^$important
-@@||almacrcommoncontent.net^$important
+!Google stuff that is needed
 @@||www.googletagmanager.com^$important
+@@||ajax.googleapis.com^$important
+!www.iltalehti.fi
+@@||img.ilcdn.fi^$important
+@@||assets.ilcdn.fi^$important
+@@||assets.dev.ilcdn.fi^$important
+@@||script.ilcdn.fi^$important
+@@||static.ilcdn.fi^$important
+@@||almacrcommoncontent.net^$important
+@@||videos-fms.jwpsrv.com^$important
+@@||assets-jpcust.jwpsrv.com^$important
+!www.mtv.fi
+@@||mtv.fi^$important
+@@||fi-mtv3.videoplaza.tv^$important
+!www.apina.biz
 @@||apina.biz^$important
+!www.aliexpress.fi
 @@||wp.aliexpress.com^$important
-@@||assets.alicdn.com^$important
-@@||g.alicdn.com^$important
-@@||ae01.alicdn.com^$important
-@@||ds-aksb-a.akamaihd.net^$important
+@@||alicdn.com^$important
+!Whatsapp
 @@||web.whatsapp.com^$important
 @@||pps.whatsapp.net^$important
 @@||cdn.whatsapp.net^$important
-||api.nettix.fi^$third-party
-||cdn.nettix.fi^$third-party
-||cmp-events.almamedia.tech^$important
-||adnami.io^$third-party
