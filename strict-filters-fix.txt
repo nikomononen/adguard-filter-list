@@ -7,7 +7,6 @@
 @@||icanhazip.com^$important
 !Google stuff that is needed
 @@||www.googletagmanager.com^$important
-@@||ajax.googleapis.com^$important
 !www.iltalehti.fi
 @@||img.ilcdn.fi^$important
 @@||assets.ilcdn.fi^$important
@@ -29,10 +28,6 @@
 @@||web.whatsapp.com^$important
 @@||pps.whatsapp.net^$important
 @@||cdn.whatsapp.net^$important
-!www.twitter.com
-@@||twitter.com^$important
-@@||abs.twimg.com^$important
-@@||pbs.twimg.com^$important
 ! Google Services
 @@||chromesyncpasswords-pa.googleapis.com^$important
 ! Viaplay
