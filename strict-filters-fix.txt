@@ -52,4 +52,3 @@
 ||cdn.adnxs.com^
 ||nostemedia.fi^
 ||bbvms.com^
-||ssl.gstatic.com^$important
