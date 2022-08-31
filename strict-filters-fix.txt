@@ -48,6 +48,20 @@
 @@||windowsupdate.com^$important
 @@||*.update.microsoft.com^$important
 @@||*.delivery.*.microsoft.com^$important
+@@||1drv.ms^$important
+@@||*.officeapps.live.com^$important
+@@||people.skype.com^$important
+@@||api.asm.skype.com^$important
+@@||contacts.skype.com^$important
+@@||api.aps.skype.com^$important
+@@||config.edge.skype.com^$important
+@@||edge.skype.com^$important
+@@||options.skype.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||avatar.skype.com^$important
+@@||onedrive.live.com^$important
+@@||storage.live.com^$important
+@@||outlook.office.com^$important
 ! Viaplay
 @@||viaplay.fi^$important
 !
@@ -57,3 +71,4 @@
 ||cdn.adnxs.com^
 ||nostemedia.fi^
 ||bbvms.com^
+||*.googlevideo.com^$important
