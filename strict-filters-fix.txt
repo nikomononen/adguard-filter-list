@@ -29,3 +29,4 @@
 ||in.appcenter.ms^$important
 ||api.onesignal.com^$important
 ||endpoint.finnpanel.fi^$important
+||global.poe.live-video.net^$important
