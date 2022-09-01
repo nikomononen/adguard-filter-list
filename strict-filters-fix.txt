@@ -3,9 +3,16 @@
 ! Version: 2022-08-31-2
 ! Homepage: https://github.com/nikomononen/adguard-filter-list
 !
+!
 !!!!!!!!!!!!!
 ! Overrides !
 !!!!!!!!!!!!!
+!
+! Iltalehti TV
+@@||www.googletagmanager.com^$doman=iltalehti.fi
+! MTV videot
+@@||fi-mtv3.videoplaza.tv^$important
+!
 !
 !!!!!!!!!!!!!!!
 ! Mainosestot !
@@ -18,3 +25,5 @@
 ||sentry.io^$important
 ||oneclient.sfx.ms^$important
 ||in.appcenter.ms^$important
+||api.onesignal.com^$important
+||endpoint.finnpanel.fi^$important
