@@ -24,7 +24,7 @@
 ||nostemedia.fi^
 ||bbvms.com^
 ||api.domegraphly.com^$important
-||yt3.ggpht.com^$important
+!||yt3.ggpht.com^$important
 ||sentry.io^$important
 ||oneclient.sfx.ms^$important
 ||in.appcenter.ms^$important
