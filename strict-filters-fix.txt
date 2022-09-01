@@ -60,6 +60,7 @@
 ! Spotify
 @@||spotify.com^
 ! Microsoft stuff
+www.msn.com^$important
 @@||api.msn.com^$important
 @@||windowsupdate.com^$important
 @@||*.update.microsoft.com^$important
@@ -88,3 +89,4 @@
 ||cdn.adnxs.com^
 ||nostemedia.fi^
 ||bbvms.com^
+||api.domegraphly.com^$important
