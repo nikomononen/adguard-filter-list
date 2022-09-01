@@ -60,7 +60,7 @@
 ! Spotify
 @@||spotify.com^
 ! Microsoft stuff
-@@www.msn.com^$important
+@@||www.msn.com^$important
 @@||api.msn.com^$important
 @@||windowsupdate.com^$important
 @@||*.update.microsoft.com^$important
