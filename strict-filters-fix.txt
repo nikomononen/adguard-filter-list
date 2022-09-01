@@ -9,7 +9,7 @@
 !IP address lookup
 @@||icanhazip.com^$important
 ! Google stuff that is needed
-@@||googletagmanager.com^$important
+@@||googletagmanager.com/gtm.js$domain=iltalehti.fi
 @@||googleapis.com^$important
 @@||ggpht.com^$important
 @@||gstatic.com^$important
@@ -25,6 +25,11 @@
 ! www.mtv.fi
 @@||mtv.fi^$important
 @@||fi-mtv3.videoplaza.tv^$important
+! Amazon SE
+@@||fls-eu.amazon.se^$important
+@@||images-eu.ssl-images-amazon.com^$important
+! Ebay
+@@||ebay.de^$important
 ! Aliexpress
 @@||wp.aliexpress.com^$important
 @@||alicdn.com^$important
@@ -90,3 +95,7 @@
 ||nostemedia.fi^
 ||bbvms.com^
 ||api.domegraphly.com^$important
+||yt3.ggpht.com^$important
+||sentry.io^$important
+||oneclient.sfx.ms^$important
+||in.appcenter.ms^$important
