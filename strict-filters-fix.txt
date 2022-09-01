@@ -53,6 +53,8 @@
 @@||cdn.discordapp.com^$important
 ! Github
 @@||github.com^$important
+! Visualstudio
+@@||*.visualstudio.com^$important
 ! Reddit
 @@||gql.reddit.com^$important
 ! Imgur
@@ -78,6 +80,7 @@
 @@||onedrive.live.com^$important
 @@||storage.live.com^$important
 @@||outlook.office.com^$important
+@@||g.live.com^$important
 ! Viaplay
 @@||viaplay.fi^$important
 !
