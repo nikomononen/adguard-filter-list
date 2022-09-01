@@ -8,6 +8,8 @@
 ! Overrides !
 !!!!!!!!!!!!!
 !
+! Adaway blocked by another list
+@@||adaway.org^$important
 ! Iltalehti TV
 @@||www.googletagmanager.com^$doman=iltalehti.fi
 ! MTV videot
