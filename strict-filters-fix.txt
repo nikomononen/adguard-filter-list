@@ -15,6 +15,8 @@
 @@||www.googletagmanager.com^$doman=iltalehti.fi
 ! MTV videot
 @@||fi-mtv3.videoplaza.tv^$important
+! Github pages 
+@@||github.io^$important
 !
 !
 !!!!!!!!!!!!!!!
@@ -31,3 +33,9 @@
 ||api.onesignal.com^$important
 ||endpoint.finnpanel.fi^$important
 ||global.poe.live-video.net^$important
+||adform.net^
+||functions.soundalerts.com^$important
+||res.leadoo.com^$important
+||gvt1.com^$important
+||cdn.cookielaw.org^$important
+||connect.facebook.net^$important
