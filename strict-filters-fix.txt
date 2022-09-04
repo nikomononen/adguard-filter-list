@@ -36,6 +36,5 @@
 ||adform.net^
 ||functions.soundalerts.com^$important
 ||res.leadoo.com^$important
-||gvt1.com^$important
 ||cdn.cookielaw.org^$important
 ||connect.facebook.net^$important
