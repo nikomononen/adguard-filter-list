@@ -12,7 +12,7 @@
 ! Adaway blocked by another list
 @@||adaway.org^$important
 ! Iltalehti
-@@||googletagmanager.com/gtm.js$domain=iltalehti.fi
+@@||googletagmanager.com^$domain=iltalehti.fi
 ! MTV videot
 @@||fi-mtv3.videoplaza.tv^$important
 ! Github pages 
